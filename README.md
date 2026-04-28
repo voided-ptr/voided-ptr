@@ -6,7 +6,7 @@
 
 - I'm making minecraft mods(i can be inactive up to 1 month).
 - Currently learning java and kotlin(rare sighting). <p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> </p>
-- How to reach me: @progames723 on discord(no email for obvious reasons).
+- How to reach me: @voided_ptr on discord(no email for obvious reasons).
 - Pronouns: look at the profile
 
 TODO:
@@ -14,8 +14,8 @@ TODO:
 - [ ] Make this thing better after making it better
 
 My github stats lol:
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=progames723&show_icons=true&locale=en" alt="progames723" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=progames723&show_icons=true&locale=en&layout=compact" alt="progames723" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=voided-ptr&show_icons=true&locale=en" alt="voided-ptr" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=voided-ptr&show_icons=true&locale=en&layout=compact" alt="voided-ptr" /></p>
 
 <!--
 **Progames723/progames723** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
